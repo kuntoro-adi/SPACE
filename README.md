@@ -5,9 +5,9 @@ The repository of our work which titled:
 ***Saliency and Power Aware Contrast Enhancement for Low OLED Power Consumption***   
 
 ## Thanks to
-We also use parts from other repository. Thanks to: 
-https://github.com/perrying/guided-filter-pytorch/    
-https://github.com/rdroste/unisal/blob/master/unisal/utils.py    
+We also use parts from other repository. Thanks to:     
+https://github.com/perrying/guided-filter-pytorch/     
+https://github.com/rdroste/unisal/blob/master/unisal/utils.py     
 
 ## Updates
 [September 13 2023 / Safar 28, 1445 AH]    
