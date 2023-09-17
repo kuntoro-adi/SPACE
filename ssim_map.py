@@ -250,7 +250,7 @@ def ssim_map(
     return ssim_map.mean(dim=1).unsqueeze(1)
 
 
-def ssim_log_diff(target_a, target_b, reference):
+def pos_similarity_ratio(target_a, target_b, reference):
     cmap_a = F.relu(ssim_map(target_a, reference, window_size=11))
     cmap_b = F.relu(ssim_map(target_b, reference, window_size=11))
 
