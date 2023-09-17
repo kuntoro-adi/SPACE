@@ -1,5 +1,5 @@
 """
-Taken from:
+Source:
 https://github.com/perrying/guided-filter-pytorch/blob/master/boxfilter.py
 """
 

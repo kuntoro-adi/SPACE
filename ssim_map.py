@@ -1,5 +1,5 @@
 """
-Taken from:
+Source:
 https://github.com/kornia/kornia/blob/master/kornia/metrics/ssim.py
 """
 

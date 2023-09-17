@@ -1,3 +1,8 @@
+"""
+Source:
+https://github.com/kornia/kornia/blob/master/kornia/color/ycbcr.py 
+"""
+
 import torch
 
 def rgb_to_ycbcr(image: torch.Tensor, luminance_const: list = [0.299, 0.587, 0.114]) -> torch.Tensor:

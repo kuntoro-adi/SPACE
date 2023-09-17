@@ -1,5 +1,5 @@
 """
-Taken from:
+Source:
 https://github.com/rdroste/unisal/blob/master/unisal/utils.py
 """
 
