@@ -2,8 +2,8 @@
 
 The repository of our work :     
 Title: ***Saliency and Power Aware Contrast Enhancement for Low OLED Power Consumption***   
-Authors: Kuntoro Adi Nugroho and Shanq-Jang Ruan
-This work has been accepted in IEEE Transactions on Instrumentation and Measurement
+Authors: Kuntoro Adi Nugroho and Shanq-Jang Ruan      
+This work has been accepted in IEEE Transactions on Instrumentation and Measurement      
 
 ## How to
 
