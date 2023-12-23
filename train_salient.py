@@ -164,7 +164,7 @@ if __name__ == "__main__":
     train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=4)
     test_loader = DataLoader(test_ds, batch_size=batch_size, shuffle=True, num_workers=4)
     
-    model = SPACE(use_center_bias=True, use_gfcorrection=True, use_len=True).to(device=device)
+    model = SPACE(apply_center_bias=True, apply_gfcorrection=True, apply_len=True).to(device=device)
 
     num_epochs = args.num_epoch
     dataloaders = {'train':train_loader, 'val':test_loader}

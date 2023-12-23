@@ -3,6 +3,7 @@
 The repository of our work :     
 Title: ***Saliency and Power Aware Contrast Enhancement for Low OLED Power Consumption***   
 Authors: Kuntoro Adi Nugroho and Shanq-Jang Ruan
+This work has been accepted in IEEE Transactions on Instrumentation and Measurement
 
 ## How to
 
@@ -21,6 +22,9 @@ Test image source:
 https://www.pexels.com/photo/attentive-purebred-cat-with-fluffy-fur-sitting-on-grass-7410722/        
 
 ## Updates
+
+[December 23 2023 / Jumada II 10, 1445 AH]
+Renaming and restructuring some code to improve readibility.
 
 [September 13 2023 / Safar 28, 1445 AH]    
 The repository is created. We plan to migrate the code from the original repository gradually: the original repository structure is complex and we plan to publish it in a more readable format. The inference sample can be found in Note.ipynb.
