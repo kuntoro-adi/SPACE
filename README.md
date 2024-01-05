@@ -23,7 +23,7 @@ https://www.pexels.com/photo/attentive-purebred-cat-with-fluffy-fur-sitting-on-g
 
 ## Updates
 
-[December 23 2023 / Jumada II 10, 1445 AH]
+[December 23 2023 / Jumada II 10, 1445 AH]    
 Renaming and restructuring some code to improve readibility.
 
 [September 13 2023 / Safar 28, 1445 AH]    
